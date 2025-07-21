@@ -127,3 +127,9 @@ ecommerce-project/
     │   └── App.js
     └── package.json
 ```
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 123108" src="https://github.com/user-attachments/assets/d19016f6-e7de-44de-bc6b-7a2257bb1bff" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 123031" src="https://github.com/user-attachments/assets/082c0cae-b5fa-4006-b844-62a455f72dbd" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 123126" src="https://github.com/user-attachments/assets/41575e03-9908-42f0-b201-2264c584073a" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 123042" src="https://github.com/user-attachments/assets/05f238a6-afac-47fe-a849-2c65131a186a" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-21 123021" src="https://github.com/user-attachments/assets/0ca4de4b-c1e3-4bb7-a481-7c804b025a3b" />
+
